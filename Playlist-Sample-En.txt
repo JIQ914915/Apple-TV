@@ -1,0 +1,74 @@
+
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Feel free to mail me：yu_tian_jian@163.com
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+DISCLAIMER:
+-IPTV Player does not supply or include any media or content. 
+-IPTV Player has no affiliation with any third-party provider what so ever.
+-Users must provide their own contents.
+-I do not endorse the streaming of copyright protected material without permission of the copyright holder.
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+The contents listed below you can not opened it with IPTV Player or any other player
+these are just used as samples for the users to better understanding of playlist formats.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+IPTV-Channel-1,http://212.26.132.86/PLTV/9999999/888/789998654/index.m3u8
+
+IPTV-Channel-2,http://212.26.132.86/PLTV/9999999/888/789998876/index.m3u8
+
+IPTV-Channel-3,http://212.26.132.86/PLTV/9999999/888/789991235/index.m3u8
+
+IPTV-mp4,http://212.26.132.86/PLTV/9999999/888/789991235/index.mp4
+
+IPTV-Radio-1,http://212.26.132.86/PLTV/9999999/888/7899543276/index.mp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+         
+
+
+
+
+
+
+
+
+
